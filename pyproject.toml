@@ -2,7 +2,7 @@
 name = "synutils"
 version = "0.0.1"
 description = "Mitre Llama"
-authors = ["Synavate Labs"]
+authors = ["Synavate Labs <core@synavate.tech"]
 license = "Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/orion-constellation/MitreLlama.git"
