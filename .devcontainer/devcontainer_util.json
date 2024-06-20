@@ -1,0 +1,38 @@
+{
+    "name": "General Utility Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04",
+    "features": {
+      "docker-in-docker": "latest",
+      "ghcr.io/devcontainers/features/docker:1": {
+        "version": "latest"
+      }
+    },
+    "extensions": [
+      "ms-python.python",
+      "esbenp.prettier-vscode",
+      "aaron-bond.better-comments",
+      "atlassian.atlascode",
+      "codeium.codeium",
+      "codium.codium",
+      "dbaeumer.vscode-eslint",
+      "eamodio.gitlens",
+      "github.codespaces",
+      "github.vscode-github-actions",
+      "mgesbert.python-path",
+      "modular-mojotools.vscode-mojo",
+      "ms-azuretools.vscode-docker",
+      "ms-playwright.playwright",
+      "ms-python.debugpy",
+      "ms-python.isort",
+      "ms-python.pylint",
+      "ms-python.vscode-pylance",
+      "ms-vscode.makefile-tools",
+      "tamasfe.even-better-toml",
+      "wayou.vscode-todo-highlight"
+      ],
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y git"
+  }
+  
