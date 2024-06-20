@@ -51,12 +51,8 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](https://github.com/
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/orion-constellation/MitreLlama/blob/main/LICENSE) file for details.
+This project is licensed under the Apache 2.0. See the [LICENSE](https://github.com/orion-constellation/MitreLlama/blob/main/LICENSE) file for details.
 
 ## 📧 Contact
 
-For any queries, please contact the maintainers at contact@orion-constellation.com.
-
----
-
-This README provides a concise yet comprehensive overview of the MitreLlama project, its features, setup instructions, and contribution guidelines.
+For any queries, please contact the maintainers at core@oriondefensiveai.com 
