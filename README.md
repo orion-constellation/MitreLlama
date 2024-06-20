@@ -1,6 +1,6 @@
 # 🦙 MitreLlama
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/orion-constellation/MitreLlama)](https://github.com/orion-constellation/MitreLlama)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/orion-constellation/MitreLlama/ci.yml)](https://github.com/orion-constellation/MitreLlama/actions)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/orion-constellation/MitreLlama)](https://github.com/orion-constellation/MitreLlama.git)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/orion-constellation/MitreLlama/ci.yml)](https://github.com/orion-constellation/MitreLlama.git/actions)
 [![GitHub](https://img.shields.io/github/license/orion-constellation/MitreLlama)](https://github.com/orion-constellation/MitreLlama/blob/main/LICENSE)
 
 ------------------
